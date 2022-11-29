@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Basic_React_Website_Template/static/css/main.364d45ec.css",
-    "main.js": "/Basic_React_Website_Template/static/js/main.b82b1798.js",
+    "main.js": "/Basic_React_Website_Template/static/js/main.bcca00ba.js",
     "static/js/787.c984f33f.chunk.js": "/Basic_React_Website_Template/static/js/787.c984f33f.chunk.js",
     "static/media/react.png": "/Basic_React_Website_Template/static/media/react.fd373eec9017cf21b26d.png",
     "static/media/jquery.png": "/Basic_React_Website_Template/static/media/jquery.94544f76670668b8a863.png",
@@ -9,11 +9,11 @@
     "static/media/undraw_online_re_x00h.svg": "/Basic_React_Website_Template/static/media/undraw_online_re_x00h.076b292d34f5a1c4a5271f6c5d4ea943.svg",
     "index.html": "/Basic_React_Website_Template/index.html",
     "main.364d45ec.css.map": "/Basic_React_Website_Template/static/css/main.364d45ec.css.map",
-    "main.b82b1798.js.map": "/Basic_React_Website_Template/static/js/main.b82b1798.js.map",
+    "main.bcca00ba.js.map": "/Basic_React_Website_Template/static/js/main.bcca00ba.js.map",
     "787.c984f33f.chunk.js.map": "/Basic_React_Website_Template/static/js/787.c984f33f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.364d45ec.css",
-    "static/js/main.b82b1798.js"
+    "static/js/main.bcca00ba.js"
   ]
 }
